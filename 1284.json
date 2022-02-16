@@ -1,0 +1,51 @@
+{
+  "name": "Your Collection #1284",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1284.png",
+  "dna": "3d7975387af02a44ade58a9efa329a95a985a996",
+  "edition": 1284,
+  "date": 1642734523690,
+  "attributes": [
+    {
+      "trait_type": "Backgroundsw",
+      "value": "AboriginalTrianglesGreen"
+    },
+    {
+      "trait_type": "Bodyw",
+      "value": "Lightskin"
+    },
+    {
+      "trait_type": "Mouthw",
+      "value": "MouthPaintedWhite"
+    },
+    {
+      "trait_type": "body-scars-tats",
+      "value": "Leopardprintbodyprint"
+    },
+    {
+      "trait_type": "Face Scar and tats",
+      "value": "DottedFaceprintwhite"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "EyesW_PiercingPurple"
+    },
+    {
+      "trait_type": "Hairstyle Under clothesw",
+      "value": "TigerHeadressOrange"
+    },
+    {
+      "trait_type": "Weapons Behind back",
+      "value": "HyenaSwordHiltGold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HuntressDressGreenRed"
+    },
+    {
+      "trait_type": "Nose Over Clothesw",
+      "value": "NoseRound"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
